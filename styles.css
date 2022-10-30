@@ -64,6 +64,15 @@
     .banner{
         padding: 15px 25px;
     }
+    .Platform h1{
+        padding: 3rem 0;
+    }
+    .feature{
+        padding:3rem 0;
+    }
+    .Platform{
+        height: 78rem;
+    }
     .log{
         margin: 2rem 1rem;
 
