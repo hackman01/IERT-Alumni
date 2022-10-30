@@ -55,12 +55,33 @@
     
     padding: 0 5px;
 }
+.grey-section{
+    color: rgb(153, 153, 153);
+}
+.messages .card{
+    width: 20rem;
+    text-align: center;
+}
+.messages{
+    text-align: center;
+    margin: 5rem 2rem 5rem 6rem;
+}
+.card img{
+    border-radius: 50%;
+    margin: 1.5rem 0;
+    width: 9rem;
+    height: 9rem;
+}
+.card img:hover{
+    width: 11rem;
+    height: 11rem;
+}
 .navbar{
     background-color: rgb(105, 105, 247);
     color: white;
     margin-bottom: 20px;
 }
-@media (max-width:800px){
+@media (max-width:1088px){
     .banner{
         padding: 15px 25px;
     }
@@ -82,10 +103,3 @@
     width: 70px;
    height: 70px;}
 }
-#rcorners1 {
-    border-radius: 25px;
-    background: #4646461f;
-    padding: 20px;
-}
-  .nav-pills .nav-link.active{
-    background-color: #a1c6fe;}
