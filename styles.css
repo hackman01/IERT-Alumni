@@ -73,3 +73,10 @@
     width: 70px;
    height: 70px;}
 }
+#rcorners1 {
+    border-radius: 25px;
+    background: #dbffdf;
+    padding: 20px;
+}
+  .nav-pills .nav-link.active{
+    background-color: #a1c6fe;}
