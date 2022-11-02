@@ -120,3 +120,28 @@
     font-size: large;
     color: #4179d6;
 }
+.copyright{
+    font-size: smaller;
+    padding-bottom: 1rem;
+    padding-top: 0.5rem;
+}
+.text-white{
+    font-size: larger;
+    padding: 0.25rem;
+}
+.containers{
+    padding-top: 2rem;
+}#footer-links{
+    padding-bottom: 0px;
+    padding-top: 0.5rem;
+}
+#team{
+    padding-bottom: 0rem;
+    margin-bottom: 0px;
+    color: white;
+    text-align: center;
+    padding: 0.5rem;
+    font-size: 0.8rem;
+}.teamtrial{
+    background-color: hsla(0, 0%, 0%, 0.92);
+}
