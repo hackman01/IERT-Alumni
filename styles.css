@@ -20,9 +20,12 @@
     margin-left:4rem;
     margin-right: 4rem;
 }
-.login{
-    margin: 70px 50px;
-}
+ .login{
+    margin: 70px 65px 70px 35px;
+} 
+/* .carou{
+    margin-right: 1px;
+} */
 .log{
     text-align: center;
 }
